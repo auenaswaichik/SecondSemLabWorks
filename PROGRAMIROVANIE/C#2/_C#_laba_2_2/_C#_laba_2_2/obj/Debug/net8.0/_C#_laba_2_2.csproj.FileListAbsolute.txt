@@ -1,0 +1,14 @@
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/_C#_laba_2_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/_C#_laba_2_2.AssemblyInfoInputs.cache
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/_C#_laba_2_2.AssemblyInfo.cs
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/_C#_laba_2_2.csproj.CoreCompileInputs.cache
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/bin/Debug/net8.0/_C#_laba_2_2
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/bin/Debug/net8.0/_C#_laba_2_2.deps.json
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/bin/Debug/net8.0/_C#_laba_2_2.runtimeconfig.json
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/bin/Debug/net8.0/_C#_laba_2_2.dll
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/bin/Debug/net8.0/_C#_laba_2_2.pdb
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/_C#_laba_2_2.dll
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/refint/_C#_laba_2_2.dll
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/_C#_laba_2_2.pdb
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/_C#_laba_2_2.genruntimeconfig.cache
+/home/dima-bilan-228/Desktop/_C#_laba_2_2/_C#_laba_2_2/obj/Debug/net8.0/ref/_C#_laba_2_2.dll

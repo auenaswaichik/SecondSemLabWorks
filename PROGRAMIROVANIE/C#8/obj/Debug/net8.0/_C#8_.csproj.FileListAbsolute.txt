@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\_C#8_\bin\Debug\net8.0\_C#8_.exe
+C:\Users\User\Desktop\C#\_C#8_\bin\Debug\net8.0\_C#8_.deps.json
+C:\Users\User\Desktop\C#\_C#8_\bin\Debug\net8.0\_C#8_.runtimeconfig.json
+C:\Users\User\Desktop\C#\_C#8_\bin\Debug\net8.0\_C#8_.dll
+C:\Users\User\Desktop\C#\_C#8_\bin\Debug\net8.0\_C#8_.pdb
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\_C#8_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\_C#8_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\_C#8_.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\_C#8_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\_C#8_.dll
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\refint\_C#8_.dll
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\_C#8_.pdb
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\_C#8_.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\_C#8_\obj\Debug\net8.0\ref\_C#8_.dll

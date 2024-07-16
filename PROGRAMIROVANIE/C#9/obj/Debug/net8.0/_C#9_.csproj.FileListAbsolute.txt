@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\_C#9_\bin\Debug\net8.0\_C#9_.exe
+C:\Users\User\Desktop\C#\_C#9_\bin\Debug\net8.0\_C#9_.deps.json
+C:\Users\User\Desktop\C#\_C#9_\bin\Debug\net8.0\_C#9_.runtimeconfig.json
+C:\Users\User\Desktop\C#\_C#9_\bin\Debug\net8.0\_C#9_.dll
+C:\Users\User\Desktop\C#\_C#9_\bin\Debug\net8.0\_C#9_.pdb
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\_C#9_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\_C#9_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\_C#9_.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\_C#9_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\_C#9_.dll
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\refint\_C#9_.dll
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\_C#9_.pdb
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\_C#9_.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\_C#9_\obj\Debug\net8.0\ref\_C#9_.dll
